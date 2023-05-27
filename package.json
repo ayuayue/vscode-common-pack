@@ -1,0 +1,45 @@
+{
+  "name": "vscode-common-pack",
+  "publisher": "caoayu",
+  "displayName": "vscode-common-pack",
+  "description": "vscode common extension",
+  "pricing": "Free",
+  "version": "0.0.1",
+  "icon": "icon.png",
+  "license": "AGPL-3.0-only",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "repository": {
+    "url": "https://github.com/ayuayue/vscode-common-pack"
+  },
+  "keywords": [
+    "vscode",
+    "git",
+    "project"
+  ],
+  "extensionPack": [
+    "jannisx11.batch-rename-extension",
+    "alefragnani.bookmarks",
+    "ms-ceintl.vscode-language-pack-zh-hans",
+    "streetsidesoftware.code-spell-checker",
+    "mikestead.dotenv",
+    "ahmadawais.emoji-log-vscode",
+    "usernamehw.errorlens",
+    "codezombiech.gitignore",
+    "eamodio.gitlens",
+    "visualstudioexptteam.vscode",
+    "ritwickdey.liveserver",
+    "mushan.vscode-paste-image",
+    "christian-kohler.path-intellisense",
+    "esbenp.prettier-vscode",
+    "alefragnani.project-manager",
+    "humao.rest-client",
+    "natizyskunk.sftp",
+    "wayou.vscode-todo-highlight",
+    "redhat.vscode-yaml"
+  ]
+}
