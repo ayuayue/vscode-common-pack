@@ -24,6 +24,7 @@
 | rest client | 发送 rest http 请求 |
 | todo-highlight | 高亮 todo |
 | yaml | yaml 解析 |
+| vscode-toggle-case | 类似 jetbrains 那种大小写切换 |
 
 
 

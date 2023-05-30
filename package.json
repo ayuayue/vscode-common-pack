@@ -40,6 +40,7 @@
     "humao.rest-client",
     "natizyskunk.sftp",
     "wayou.vscode-todo-highlight",
-    "redhat.vscode-yaml"
+    "redhat.vscode-yaml",
+    "caoayu.vscode-toggle-case"
   ]
 }
